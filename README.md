@@ -24,7 +24,7 @@
 
   <br/><br/>
 
-  <h1 style="font-size: 20px; font-weight: bold; margin-bottom: 5px;">💪 Skills</h1>
+  <h1 style="font-size: 20px; font-weight: bold; margin-bottom: 5px;">🛠 Skills 🛠</h1>
 
   <br/>
 
