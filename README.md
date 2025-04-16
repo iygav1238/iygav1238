@@ -1,6 +1,7 @@
 <div align="center">
 
   <h1>👋 iygav1238 👋</h1>
+  <p> 서경대학교 소프트웨어 학과 </p>
 
   <br/>
 
